@@ -10,12 +10,15 @@ highlighter: pygments
 #
 title : dbogs blog
 tagline: coding time all the time.
-author :
-  name : Daniel Bogart
-  email : daniel.e.bogart@gmail.com
-  github : danielbogart
-  twitter : daniel_bogart
-  #feedburner : feedname
+author : Daniel Bogart
+name : Daniel Bogart
+email : daniel.e.bogart@gmail.com
+github : danielbogart
+twitter : daniel_bogart
+#feedburner : feedname
+
+baseurl: "http://blog.dbogs.com/"
+url: "http://blog.dbogs.com/" # the base hostname & protocol for your site
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +28,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://blog.dbogs.com
+# production_url : http://blog.dbogs.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

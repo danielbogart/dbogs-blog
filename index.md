@@ -12,3 +12,9 @@ tagline: my programming and self development blog
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+## My projects
+
+* [Moving Bro](http://www.movingbro.com)
+* [Swelfie](http://swelfie.us)
+
