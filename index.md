@@ -17,4 +17,5 @@ tagline: my programming and self development blog
 
 * [Moving Bro](http://www.movingbro.com)
 * [Swelfie](http://swelfie.us)
+* [Professional Portfolio](http://dbogs.com)
 

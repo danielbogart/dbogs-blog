@@ -17,8 +17,8 @@ github : danielbogart
 twitter : daniel_bogart
 #feedburner : feedname
 
-baseurl: "http://blog.dbogs.com/"
-url: "http://blog.dbogs.com/" # the base hostname & protocol for your site
+# baseurl: "http://blog.dbogs.com/"
+# url: "http://blog.dbogs.com/" # the base hostname & protocol for your site
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
